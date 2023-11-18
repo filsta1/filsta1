@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student of Computer Science in Poland.<br><br>I am interested in automotive, technological innovations and sport.
+Graduate of computer science studies with a specialization in programming, passionate about creatively solving problems. My engineering project involved creating a household budget management application using Java, Hibernate, Spring Boot, and Thymeleaf. Currently working as a manual software tester, I ensure quality and functionality by applying my programming skills to meticulous testing. In addition, I possess the ability to develop websites, having completed three projects that combine programming and design knowledge. Always ready for new challenges and committed to improving skills in the dynamic IT environment.
 
 
 ## 🌐 Socials:
