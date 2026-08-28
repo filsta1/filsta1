@@ -8,9 +8,6 @@ PHP developer at heart, with Python as my second language day-to-day, working on
 ![](https://github-readme-stats.vercel.app/api?username=filsta1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=filsta1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-# 📈 Activity:
-![](https://github-readme-activity-graph.vercel.app/graph?username=filsta1&theme=react-dark&hide_border=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=filsta1&icon=0&color=12)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
